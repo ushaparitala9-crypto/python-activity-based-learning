@@ -68,7 +68,8 @@ END IF
 
 STOP
 
-```## Test Cases
+## Test Cases
+```
   Test Case   |   	Budget   |   	Total Expenses    |   	Remaining   |  	Expected Status
       1	      |   ₹50,000	   |     ₹40,000	        |      ₹10,000	  |    Budget Saved
       2       |  	₹30,000	   |     ₹35,000          | 	  -₹5,000	    |    Budget Exceeded
