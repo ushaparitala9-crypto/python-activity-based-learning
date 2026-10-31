@@ -100,7 +100,7 @@ Total Electricity Bill: Rs. 1700
 This case study explains how Python can be used to calculate electricity bills using a progressive billing system. The program uses conditional statements such as if, elif, and else to calculate charges based on electricity consumption. It helps beginners understand decision-making statements, user input, arithmetic operations, and output statements in Python. The program calculates the electricity bill accurately for different ranges of units consumed.
 
 ## Flowchart
-mermaid```
+```mermaid
 graph TD
     A([Start]) --> B[/Input/]
     B --> C{Condition?}
