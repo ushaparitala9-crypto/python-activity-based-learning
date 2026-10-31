@@ -57,7 +57,8 @@ DISPLAY cost
 
 STOP
 
-```## Test Cases
+## Test Cases
+```
  Test Case  |  	Data Usage	|    Selected Plan   	|   Total Cost
     1	      |     3 GB	      |      Basic Plan	      |    ₹199
     2	      |     5 GB	      |      Basic Plan	      |    ₹199
@@ -87,6 +88,9 @@ Enter monthly data usage in GB: 20
 
 --- Best Plan Details ---
 Selected Plan: Premium Plan
+
+## Conclusion
+The Multi-Plan Telecommunications Cost Optimization program successfully selects a suitable mobile data plan based on monthly data usage. It uses Python conditional statements such as if, elif, and else to identify the appropriate plan and display its cost. This case study helps students understand decision-making statements and their practical applications in telecommunications.
 
 ## Flowchart
 ```mermaid
