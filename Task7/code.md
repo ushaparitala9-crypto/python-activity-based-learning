@@ -62,7 +62,8 @@ DISPLAY final_bill
 
 STOP
 
-```## Test Cases
+## Test Cases
+```
    Test Case   |  	Customer	    |      Purchase Amount      |       	Discount       |   	Final Bill
        1	      |      Ravi	     |         ₹6,000	           |      ₹1,200 (20%)	    |       ₹4,800
        2       |    	Sita	      |         ₹4,000            |      ₹600 (15%)       |      	₹3,400
