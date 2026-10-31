@@ -77,14 +77,14 @@ END IF
 ```
 ##  Test Cases
 
-Testcase  |	  Category    |    Days   	|    Expected bill
-   1	    |   General	    |      2	    |     ₹2,000
-   2	    |   General	    |      5      |   	₹5,000
-   3	    |   Emergency	  |      2	    |     ₹6,000
-   4	    |   Emergency	  |      4	    |     ₹12,000
-   5      |   	ICU	      |      2	    |     ₹10,000
-   6	    |     ICU	      |      5	    |     ₹25,000
-   7	    |    Invalid	  |      3	    |     ₹0
+Testcase  |	  Category     |    Days    	|    Expected bill
+   1	     |   General	     |      2	     |     ₹2,000
+   2	     |   General	     |      5      |   	₹5,000
+   3	     |   Emergency	   |      2	     |     ₹6,000
+   4	     |   Emergency	   |      4	     |     ₹12,000
+   5      |   	ICU	        |      2	     |     ₹10,000
+   6	     |     ICU	       |      5	     |     ₹25,000
+   7	     |    Invalid	    |      3	     |     ₹0
 
 ```
 
