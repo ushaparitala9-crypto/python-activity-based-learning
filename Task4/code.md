@@ -63,8 +63,8 @@ STOP
       2	      |       Sita	      |      ₹40,000      |       ₹36,000
       3	      |       Kumar	     |      ₹50,000	     |       ₹42,500
       4	      |       Priya	     |      ₹30,000      |       ₹28,500
-
 ```
+
 ## Output Screenshots
 Enter employee name: Ravi
 Enter basic salary: 60000
