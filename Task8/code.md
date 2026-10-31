@@ -68,7 +68,8 @@ END IF
 
 STOP
 
-```## Test Cases
+## Test Cases
+```
    Test Case     |     	Quantity   	  |      Cost/Product    |     Selling Price	     |       Expected Result
        1	        |        100	        |          ₹50	        |           ₹80	         |         Profit ₹3,000
        2         |       	100         |         ₹100         |           ₹80          |        	Loss ₹2,000
