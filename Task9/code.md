@@ -77,7 +77,8 @@ END IF
 
 STOP
 
-```## Test Cases
+## Test Cases
+```
   Test Case   |	   Budget	| Currency    |   	Expense  |	Expected Status
       1	      |  ₹50,000	 |   USD	      |      $300   | 	Within Budget
       2	      |  ₹40,000  |   EUR       |      €200	  |   Within Budget
