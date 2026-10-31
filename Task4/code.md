@@ -57,8 +57,7 @@ DISPLAY net_salary
 
 STOP
 
-```
-## Test Cases
+```## Test Cases
    Testcase   |  	Employee name  |  	Basic salary    |  	Expected net salary
       1       |     	Ravi        |    	₹60,000	      |       ₹51,000
       2	      |       Sita	      |      ₹40,000      |       ₹36,000
