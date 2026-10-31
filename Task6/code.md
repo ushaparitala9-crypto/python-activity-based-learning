@@ -86,14 +86,15 @@ END IF
 
 STOP
 
-## Test Cases
- Test Case    |    	 Age      |  	   Class	     |     Tickets	   |     Expected Fare
-      1	      |       25	    |      Sleeper	   |        2	       |       ₹400
-      2	      |       35      |      	AC         |      	2        |       ₹1,000
-      3	      |       65	    |     Sleeper	     |        2	       |       ₹360
-      4	      |       4	      |   First Class    |      	2        |       ₹0
-      5       |     	30      | 	First Class	   |        1	       |       ₹1,000
-      6       |     	40      |   	Invalid	     |        1	       |      Invalid class
+```## Test Cases
+ Test Case    |    	 Age      |  	     Class	     |     Tickets	    |     Expected Fare
+      1	      |       25	     |        Sleeper	   |        2	       |       ₹400
+      2	      |       35      |       	AC         |       	2        |       ₹1,000
+      3	      |       65	     |      Sleeper	     |        2	       |       ₹360
+      4	      |       4	      |    First Class    |       	2        |       ₹0
+      5       |     	30       |   	First Class	   |        1	       |       ₹1,000
+      6       |     	40       |     	Invalid	     |        1	       |      Invalid class
+```
 
 8. Output Screenshots
    Enter passenger name: Ravi
