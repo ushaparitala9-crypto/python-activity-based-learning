@@ -78,12 +78,12 @@ END IF
 STOP
 
 ```## Test Cases
-  Test Case   |	   Budget	| Currency    |   	Expense |	Expected Status
-      1	      |  ₹50,000	|   USD	      |      $300   | 	Within Budget
+  Test Case   |	   Budget	| Currency    |   	Expense  |	Expected Status
+      1	      |  ₹50,000	 |   USD	      |      $300   | 	Within Budget
       2	      |  ₹40,000  |   EUR       |      €200	  |   Within Budget
-      3	      |  ₹20,000	|   GBP	      |      £200	  |   Over Budget
-      4	      |  ₹30,000	|   USD	      |      $400   | 	Over Budget
-      5       |  ₹50,000  | 	EUR       |      €400	  |   Within Budget
+      3	      |  ₹20,000	 |   GBP	      |      £200	  |   Over Budget
+      4	      |  ₹30,000	 |   USD	      |      $400   | 	Over Budget
+      5       |  ₹50,000  | 	 EUR       |      €400	  |   Within Budget
 ```
 
 ## Output Screenshots
