@@ -102,9 +102,4 @@ graph TD
     G --> I
     H --> I
     I --> J([Stop])
-Monthly Usage: 20 GB
-Total Cost: Rs. 599
-
-## Conclusion
 ```
-The Multi-Plan Telecommunications Cost Optimization program successfully selects a suitable mobile data plan based on monthly data usage. It uses Python conditional statements such as if, elif, and else to identify the appropriate plan and calculate its cost. This case study helps students understand decision-making statements and their real-world applications in telecommunications.
