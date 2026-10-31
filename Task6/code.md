@@ -86,8 +86,9 @@ END IF
 
 STOP
 
-```## Test Cases
- Test Case    |    	 Age      |  	     Class	     |     Tickets	    |     Expected Fare
+## Test Cases
+```
+Test Case    |    	 Age      |  	     Class	     |     Tickets	    |     Expected Fare
       1	      |       25	     |        Sleeper	   |        2	       |       ₹400
       2	      |       35      |       	AC         |       	2        |       ₹1,000
       3	      |       65	     |      Sleeper	     |        2	       |       ₹360
@@ -96,7 +97,7 @@ STOP
       6       |     	40       |     	Invalid	     |        1	       |      Invalid class
 ```
 
-8. Output Screenshots
+ ## Output Screenshots
    Enter passenger name: Ravi
 Enter passenger age: 25
 
