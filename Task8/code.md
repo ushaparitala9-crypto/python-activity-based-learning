@@ -69,12 +69,12 @@ END IF
 STOP
 
 ```## Test Cases
-   Test Case     |     	Quantity  	  |      Cost/Product    |     Selling Price	    |       Expected Result
-       1	       |        100	        |          ₹50	       |           ₹80	        |         Profit ₹3,000
+   Test Case     |     	Quantity   	  |      Cost/Product    |     Selling Price	     |       Expected Result
+       1	        |        100	        |          ₹50	        |           ₹80	         |         Profit ₹3,000
        2         |       	100         |         ₹100         |           ₹80          |        	Loss ₹2,000
-       3	       |         50	        |          ₹100        |           ₹100	        |       No Profit No Loss
-       4	       |        200	        |          ₹20         |           ₹30          |       	Profit ₹2,000
-       5         |      	10          |         ₹500	       |           ₹400	        |         Loss ₹1,000
+       3	        |         50	        |          ₹100        |           ₹100	        |       No Profit No Loss
+       4	        |        200	        |          ₹20         |           ₹30          |       	Profit ₹2,000
+       5         |      	10           |         ₹500	        |           ₹400	        |         Loss ₹1,000
 ```
 
 ## Output Screenshots
