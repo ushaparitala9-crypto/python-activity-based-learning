@@ -66,12 +66,14 @@ END IF
 STOP
 
 ## Test Cases
+```
 Test | Student | Marks	| Annual income  |	Expected result
 1    |	Ravi	 |  95    |	 ₹1,50,000     |	100%
 2	   |  Sita   |	85	  |  ₹2,50,000     |	75%
 3    |	Kumar  |	75	  |  ₹4,00,000     |	50%
 4	   |  Rani   |	65    |	 ₹1,00,000	   | Not eligible
 5	   |  Arun	 |  95	  |  ₹3,00,000     | Not eligible
+```
 
 ## Sample Input and Outputs
 case1:
