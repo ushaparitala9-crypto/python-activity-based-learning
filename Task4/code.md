@@ -59,9 +59,9 @@ STOP
 
 ```
 ## Test Cases
-   Testcase   |  	Employee name  |  	Basic salary   |  	Expected net salary
-      1       |     	Ravi       |    	₹60,000	     |       ₹51,000
-      2	      |       Sita	     |      ₹40,000      |       ₹36,000
+   Testcase   |  	Employee name  |  	Basic salary    |  	Expected net salary
+      1       |     	Ravi        |    	₹60,000	      |       ₹51,000
+      2	      |       Sita	      |      ₹40,000      |       ₹36,000
       3	      |       Kumar	     |      ₹50,000	     |       ₹42,500
       4	      |       Priya	     |      ₹30,000      |       ₹28,500
 
@@ -90,8 +90,9 @@ PF: Rs. 3000.0
 Total Deduction: Rs. 9000.0
 Net Salary: Rs. 51000.0
 
-```## Flowchart
-flowchart TD
+## Flowchart
+```mermaid
+  graph TD
     A([Start]) --> B[/Enter Employee Name/]
     B --> C[/Enter Basic Salary/]
     C --> D{Salary >= 50000?}
