@@ -104,6 +104,9 @@ Student Name: Kumar
 Scholarship: 50%
 Status: Eligible
 
+## Conclusion
+The Scholarship Allocation System successfully determines student scholarship eligibility based on academic performance and family annual income. It uses Python conditional statements and logical operators such as AND to allocate different scholarship percentages. This case study helps students understand decision-making, multiple conditions, and the practical application of Python in educational scholarship management systems.
+
 ## Flowchart
 ```mermaid
 graph TD
