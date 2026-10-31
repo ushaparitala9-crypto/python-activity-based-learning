@@ -72,13 +72,13 @@ STOP
 The following test cases are used to check whether the program produces correct results.
 ```
 Testcase |	Units consumed  |	Expected bill
-   1     |     	 50	        |    ₹100
-   2	   |      100         |  	 ₹200
-   3	   |      150	        |    ₹350
-   4	   |      200	        |    ₹500
+   1     |     	 50	       |    ₹100
+   2	    |      100        |  	 ₹200
+   3	    |      150	       |    ₹350
+   4	    |     200	        |    ₹500
    5     |    	250	        |    ₹750
-   6	   |      300	        |    ₹1,000
-   7	   |      400	        |    ₹1,700
+   6	    |      300	       |    ₹1,000
+   7	    |      400	       |    ₹1,700
 ```
 ## Sample Output Screenshots
 Enter customer name: Usha
@@ -109,4 +109,5 @@ graph TD
     D --> F[/Output/]
     E --> F
     F --> G([Stop])
-    ```
+
+```
