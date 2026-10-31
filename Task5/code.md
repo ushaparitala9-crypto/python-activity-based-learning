@@ -58,12 +58,12 @@ DISPLAY cost
 STOP
 
 ```## Test Cases
- Test Case  |  	Data Usage	|    Selected Plan  	|   Total Cost
-    1	      |     3 GB	    |      Basic Plan	    |    ₹199
-    2	      |     5 GB	    |      Basic Plan	    |    ₹199
-    3       |    	10 GB     |   	Standard Plan	  |    ₹399
-    4       |   	15 GB	    |     Standard Plan	  |    ₹399
-    5	      |     20 GB     |    	Premium Plan	  |    ₹599
+ Test Case  |  	Data Usage	|    Selected Plan   	|   Total Cost
+    1	      |     3 GB	      |      Basic Plan	      |    ₹199
+    2	      |     5 GB	      |      Basic Plan	      |    ₹199
+    3       |    	10 GB       |   	Standard Plan	   |    ₹399
+    4       |   	15 GB	      |     Standard Plan	   |    ₹399
+    5	      |     20 GB       |    	Premium Plan	   |    ₹599
 ```
 
 ## Output Screenshots
